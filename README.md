@@ -2,10 +2,10 @@
 This repository aims to perform edge detection using the Sobel filter. 
 The Sobel filter is a commonly used technique in image processing for edge detection.
 
-##What is the Sobel Filter?
+## What is the Sobel Filter?
 The Sobel filter is a gradient filter used to detect edges in an image. It analyzes the intensity changes at each pixel of the image to identify edges. The Sobel filter is calculated as a combination of gradients in the x and y directions, and then the edge strength is determined using the magnitudes of these gradients.
 
-##Usage
+## Usage
 Downloading the Code: Clone this repository to your local machine or download it as a ZIP file.
 
 Installing Required Libraries: To run the project, you'll need the OpenCV library. If you don't have OpenCV installed, you can follow the installation instructions from the official OpenCV website.
