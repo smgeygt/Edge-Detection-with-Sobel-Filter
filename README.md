@@ -11,5 +11,7 @@ Downloading the Code: Clone this repository to your local machine or download it
 Installing Required Libraries: To run the project, you'll need the OpenCV library. If you don't have OpenCV installed, you can follow the installation instructions from the official OpenCV website.
 
 Running the Code: Execute the Python file sobel_edge_detection.py to perform edge detection using the Sobel filter. To detect edges in a sample image using the Sobel filter, run the following command:
+...
 [python sobel_edge_detection.py --input image.jpg --output edges.jpg]
+...
 Here, image.jpg represents the input image for edge detection, and edges.jpg represents the output image where the detected edges will be saved.
